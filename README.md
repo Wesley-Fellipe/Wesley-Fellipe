@@ -2,7 +2,7 @@
 
 **`Desenvolvedor FullSatck`**
 
-Me chamo Wesley Felipe, tenho 15 anos e sou natural de Recife (PE). Concluí o ensino fundamental II no Eref Maciel Pinheiro. Atualmente, estou cursando Desenvolvimento de Sistemas na ETE Ginásio Pernambucano. Sou apaixonado por tecnologia, Programo Front-End desde os meus 11 anos de idade. Meu perfil do instagran é esse "[_021.weslly](https://www.instagram.com/_021.weslly/)".
+Me chamo Wesley Felipe, tenho 15 anos e sou natural de Recife (PE). Concluí o ensino fundamental II no Eref Maciel Pinheiro. Atualmente, estou cursando Desenvolvimento de Sistemas na ETE Ginásio Pernambucano. Sou apaixonado por tecnologia, Programo Back-End desde os meus 11 anos de idade. Meu perfil do instagram é esse "[_021.weslly](https://www.instagram.com/_021.weslly/)".
 
 <p align="left">
     <a href="https://github.com/Wesley-Fellipe?tab=repositories&sort=stargazers">
