@@ -53,5 +53,5 @@ Me chamo Wesley Felipe, tenho 15 anos e sou natural de Recife (PE). Concluí o e
 <div class="tecnologias">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
-<img src="https://commons.wikimedia.org/wiki/Special:FilePath/Logo_Portugol.jpg" width="50">
+<img src="https://cdn.jsdelivr.net/gh/portugol-studio/portugol-studio-assets/icons/lamp.png" width="50">
 </div>
