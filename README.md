@@ -61,3 +61,8 @@ Me chamo Wesley Felipe, tenho 15 anos e sou natural de Recife (PE). Concluí o e
   
   <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/Portugol_Studio_logo.png" width="40"/>
 </div>
+.tecnologias {
+  display: flex;
+  gap: 10px;
+  align-items: center;
+}
