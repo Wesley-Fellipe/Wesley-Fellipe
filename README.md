@@ -49,3 +49,21 @@ Me chamo Wesley Felipe, tenho 15 anos e sou natural de Recife (PE). Concluí o e
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
 />
+
+<div class="tecnologias">
+  <img src="html.svg" width="40"/>
+  <img src="css.svg" width="40"/>
+  <img src="js.svg" width="40"/>
+  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" style="filter: invert(1);" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
+  
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/Portugol_Studio_logo.png" width="40"/>
+</div>
+
+.tecnologias {
+  display: flex;
+  gap: 10px;
+  align-items: center;
+}
