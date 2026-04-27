@@ -53,5 +53,12 @@ Me chamo Wesley Felipe, tenho 15 anos e sou natural de Recife (PE). Concluí o e
 <div class="tecnologias">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
-  <img src="https://play.google.com/store/apps/details?id=br.erickweil.portugolweb&hl=pt_PT" width="40"/>
+  <img 
+    align="left" 
+    alt="Portugol" 
+    title="Portugol"
+    width="30px" 
+    style="padding-right: 10px;"
+    src="https://github.com/user-attachments/assets/f76c4b91-182d-4289-8db9-faa7c2295832" 
+  />
 </div>
