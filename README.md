@@ -57,7 +57,7 @@ Me chamo Wesley Felipe, tenho 15 anos e sou natural de Recife (PE). Concluí o e
     title="Git"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://git-scm.com/images/logo@2x.png"
+    src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1280px-Git_icon.svg.png"
   />
   <img 
     align="left" 
@@ -65,7 +65,7 @@ Me chamo Wesley Felipe, tenho 15 anos e sou natural de Recife (PE). Concluí o e
     title="Python"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://github.com/user-attachments/assets/b09a82e1-ffa0-40fc-966f-37fab5123bee" 
+    src="https://cdn-icons-png.flaticon.com/512/5968/5968350.png" 
   />
   <img 
     align="left" 
